@@ -1,0 +1,21 @@
+{
+  "name": "progen-digital-backend",
+  "version": "1.0.0",
+  "description": "Contact form API for the Progen Digital website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "pg": "^8.13.1"
+  }
+}
